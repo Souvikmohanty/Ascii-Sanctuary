@@ -1,0 +1,6 @@
+{
+  "name": "Nishikigoi ASCII Sanctuary",
+  "description": "An interactive obsidian ASCII creature sanctuary and AI workspace with live physics tweaks and 4-variant AI species synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
